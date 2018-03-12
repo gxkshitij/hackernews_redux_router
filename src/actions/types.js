@@ -1,0 +1,1 @@
+export const STORIES_FETCHED = "stories_fetched";
